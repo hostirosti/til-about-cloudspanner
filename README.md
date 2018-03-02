@@ -1,4 +1,4 @@
-# Today-I-learned about Cloud Spanner Video & Content Series
+# Things-I-learned about Cloud Spanner Video & Content Series
 
 This repository contains source code accompanying the TIL about Cloud Spanner
 Video and Content Series.
@@ -6,11 +6,14 @@ Video and Content Series.
 ## Published Content
 
 1. [First Steps](01-first-steps/README.md) with Cloud Spanner ([blog post](https://goo.gl/XRyjEU), [video](https://goo.gl/ZKNs3X))
+2. [Choosing the right Primary Keys](02-choosing-right-primary-keys/README.md) ([blog post](https://goo.gl/XQtVzX), [video](https://goo.gl/VQHE21))
 
 ## Requirements to run the samples
 
 - [Google Cloud Project](https://console.cloud.google.com)
 - Google Cloud Spanner Instance (refer to the [Cloud Spanner](https://cloud.google.com/spanner/docs/quickstart-console) docs on how to create a Cloud Spanner Instance)
+- Bucket in Google Cloud Storage (refer to the [GCS docs](https://cloud.google.com/storage/docs/quickstart-console) on how to create a bucket)
+- Google Cloud Container Registry (refer to the [Container Registry docs](https://cloud.google.com/container-registry/docs/quickstart) how to enable the registry)
 
 ### Create a GCE instance and install all required packages
 
