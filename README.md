@@ -5,7 +5,7 @@ Video and Content Series.
 
 ## Published Content
 
-1. [First Steps](01-first-steps/README.md) with Cloud Spanner ([blog post](https://medium.com/@hostirosti/first-steps-with-google-cloud-spanner), [video](https://www.youtube.com/watch?v=Y9u0e5w77bI))
+1. [First Steps](01-first-steps/README.md) with Cloud Spanner ([blog post](https://goo.gl/XRyjEU), [video](https://goo.gl/ZKNs3X))
 
 ## Requirements to run the samples
 
