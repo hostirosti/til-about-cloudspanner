@@ -6,7 +6,8 @@ Video and Content Series.
 ## Published Content
 
 1. [First Steps](01-first-steps/README.md) with Cloud Spanner ([blog post](https://goo.gl/XRyjEU), [video](https://goo.gl/ZKNs3X))
-2. [Choosing the right Primary Keys](02-choosing-right-primary-keys/README.md) ([blog post](https://goo.gl/XQtVzX), [video](https://goo.gl/VQHE21))
+1. [Choosing the right Primary Keys](02-choosing-right-primary-keys/README.md) ([blog post](https://goo.gl/XQtVzX), [video](https://goo.gl/VQHE21))
+1. [Maximizing data load throughput](03-maximizing-data-load-throughput/README.md) ([blog post](https://goo.gl/bFdaq1), [video](https://goo.gl/Dwpv7E))
 
 ## Requirements to run the samples
 

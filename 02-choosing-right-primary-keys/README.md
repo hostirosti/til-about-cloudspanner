@@ -63,8 +63,8 @@ gcloud docker -- push gcr.io/$CSTIL_PROJECT/til-about-cloudspanner-02:v1
 
 ### Copy and adjust the configuration file
 
-Copy the [config-sample.env](config-sample.env) to `config.env` and adjust the
-placeholders.
+Copy the [config-sample.env](version01/golang/config-sample.env)
+to `config.env` and adjust the placeholders.
 If you want to test a larger or smaller dataset adjust the cardinalities as well.
 Make sure the Google Cloud Storage bucket exists before running the sample.
 
@@ -146,8 +146,8 @@ gcloud docker -- push gcr.io/$CSTIL_PROJECT/til-about-cloudspanner-02:v2
 
 ### Copy and adjust the configuration file
 
-Copy the [config-sample.env](config-sample.env) to `config.env` and adjust the
-placeholders.
+Copy the [config-sample.env](version02/golang/config-sample.env) to `config.env`
+and adjust the placeholders.
 If you want to test a larger or smaller dataset adjust the cardinalities as well.
 Make sure the Google Cloud Storage bucket exists before running the sample.
 

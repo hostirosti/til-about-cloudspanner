@@ -1,0 +1,10 @@
+**/service-account.json
+**/config.env
+**/.DS_Store
+**/.classpath
+**/.project
+**/.idea
+**/.vscode
+**/.settings
+**/*.iml
+**/target
